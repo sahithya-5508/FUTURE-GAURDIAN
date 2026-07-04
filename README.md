@@ -177,7 +177,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# 👥 Team
+# 👨‍💻 Team
 
 **Trio for Tomorrow**
 
